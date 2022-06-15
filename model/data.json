@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"My first website",
+        "img":"./img/Animal1.png"
+    },
+    {
+        "id":2,
+        "name":"My second website",
+        "img":"./img/kunuz.png"
+    },
+    {
+        "id":3,
+        "name":"My instagram website",
+        "img":"./img/insta.png"
+    },
+    {
+        "id":4,
+        "name":"My first crm",
+        "img":"./img/crm.png"
+    }
+]
